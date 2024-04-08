@@ -11,4 +11,12 @@
 
 - Silvia Daniela Delgado
 - Mario Gabriel Calcagni
+- Franco Morales
+- Juan Pablo Batallón
+- Maximiliano Tomio
+- Agustin Salinas
+- Axel Arrieta
+- Marina Rebolloso
+- Cintia Sosa
+- Elias Jacob
 
