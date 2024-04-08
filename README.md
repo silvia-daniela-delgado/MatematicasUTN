@@ -6,7 +6,9 @@
 - Trabajo finalizado y entregado al profesor.
 
 `Equipo: Los Terreneitor.`
+
 **Integrantes:**
+
 - Silvia Daniela Delgado
-- Mario Gabriel calcagni
+- Mario Gabriel Calcagni
 
