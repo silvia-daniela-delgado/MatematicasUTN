@@ -21,3 +21,12 @@
 - Elias Jacob
 
 
+- Edito aquí!! 
+
+`Hola soy Juan Carlo` <-> Esto se hace con los backticks alt + 96
+
+Y se ve así: para poder ver un markdown en vista previa control + shift + v
+
+control + s para guardar
+
+configuramos las credenciales
