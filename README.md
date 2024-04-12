@@ -20,6 +20,3 @@
 - Cintia Sosa
 - Elias Jacob
 
-- Voy a dejar esto como estaba!! 😀
-
-control + s pára guardar!!
