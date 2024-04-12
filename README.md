@@ -20,3 +20,8 @@
 - Cintia Sosa
 - Elias Jacob
 
+- Ahora edito este readme!!! 
+
+`Soy un estilo diferente` <-> Esto se hace con los backticks alt + 96
+
+Ahora guardamos el archivo apretando control + s
