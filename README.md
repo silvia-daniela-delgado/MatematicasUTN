@@ -7,6 +7,8 @@
 
 `Equipo: Los Terreneitor.`
 
+Fecha de entrega: viernes 05/04
+
 **Integrantes:**
 
 - Silvia Daniela Delgado
