@@ -1,0 +1,122 @@
+UTN – FRSR – TUP 2024
+MATEMATICA - LOGICA
+Ing. OSVALDO GIORDANINI
+
+Integrantes: Daniela Delgado.
+	     Franco Morales. 
+             Elias Jacob.  
+             Gabriel Calcagni. 
+             Marina Rebolloso. 
+             Maximiliano Tomio. 
+TRABAJO PARA RESOLVR EN CLASE
+LOS SIGUIENTE CASOS REALES FORMALIZARLO EN PROPOSIOCNES LOGICAS
+
+1- El cambio climático amenaza con revertir décadas de progreso que nos aportaron una mejor 
+salud y bienestar, particularmente en las comunidades más vulnerables. Los conocimientos y 
+los recursos científicos pueden ayudar a restablecer el equilibrio, pero no son suficientemente 
+accesibles ni utilizados, según un nuevo informe de varias agencias coordinado por la 
+Organización Meteorológica Mundial.
+ RTA
+p: El cambio climático amenaza con revertir décadas de progreso que nos aportaron una mejor salud y bienestar.
+q: Los conocimientos y los recursos científicos pueden ayudar a restablecer el equilibrio.
+r: Los conocimientos y los recursos científicos no son suficientemente accesibles y ni utilizados.
+
+p∧(q∧¬r)
+
+2- El informe sobre la brecha de producción, elaborado por el Instituto de Medio Ambiente de 
+Estocolmo, Climate Analytics, E3G, el Instituto Internacional de Desarrollo Sostenible y el 
+Programa de las Naciones Unidas para el Medio Ambiente (PNUMA), evalúa la producción 
+de carbón, petróleo y gas prevista y planificada por los gobiernos en comparación con los 
+niveles mundiales compatibles con el objetivo de temperatura del Acuerdo de París. El 
+informe 2023 concluye que los gobiernos tienen previsto producir en 2030 alrededor de un 
+110% más de combustibles fósiles de lo que sería coherente con la limitación del 
+calentamiento global a 1,5 ºC, y un 69% más de lo que sería con 2 ºC..
+ RTA
+p: Los gobiernos tienen previsto producir en 2030 alrededor de un 110% más de combustibles fósiles de lo que sería coherente con la limitación del calentamiento global a 1,5 ºC.
+q: Los gobiernos tienen previsto producir en 2030 un 69% más de combustibles fósiles de lo que sería coherente con la limitación del calentamiento global a 2 ºC.
+
+p∧q
+
+3- El informe, titulado "Financiación y preparación deficientes: La falta de inversiones y 
+planificación en materia de adaptación climática deja el mundo expuesto al peligro", 
+concluye que los avances en adaptación climática se están ralentizando en lugar de acelerarse 
+para hacer frente a los efectos cada vez mayores del cambio climático. El informe señala 
+siete vías para aumentar la financiación de la adaptación, tanto a través del gasto nacional 
+como de la financiación internacional y del sector privado.
+ RTA
+p: Los avances en adaptación climática se están ralentizando. 
+¬q:En lugar de acelerarse para hacer frente a los efectos cada vez mayores del cambio climático.
+r: El informe señala siete vías para aumentar la financiación de la adaptación, tanto a través del gasto nacional como de la financiación internacional y del sector privado.
+
+(p∧¬q)∧r
+
+4- The abundance of heat-trapping greenhouse gases in the atmosphere once again reached a 
+new record in 2022, according to this report from the World Meteorological Organization. 
+Global averaged concentrations of carbon dioxide (CO2), the most important greenhouse 
+gas, were a full 50 per cent above the pre-industrial era for the first time, and they continued 
+to grow in 2023. Methane concentrations also grew, and levels of nitrous oxide, the third 
+main gas, saw the highest year-on-year increase on record from 2021 to 2022.
+ RTA
+TRADUCIDO AL ESPAÑOL:
+
+La abundancia de gases de efecto invernadero que atrapan el calor en la atmósfera alcanzó nuevamente un nuevo récord en 2022, según este informe de la Organización Meteorológica Mundial. 
+Las concentraciones globales promedio de dióxido de carbono (CO2), el gas de efecto invernadero más importante, estuvieron un 50 por ciento por encima de la era preindustrial 
+por primera vez, y continuaron creciendo en 2023. Las concentraciones de metano también aumentaron, y los niveles de óxido nitroso, el tercer gas principal, experimentaron el 
+mayor aumento interanual registrado desde 2021 hasta 2022.
+
+p: Las concentraciones globales promedio de dióxido de carbono (CO2) estuvieron un 50 por ciento por encima de la era preindustrial por primera vez.
+q: Las concentraciones globales promedio de dióxido de carbono (CO2) continuaron creciendo en 2023.
+r: Las concentraciones de metano también aumentaron.
+s: Los niveles de óxido nitroso experimentaron el mayor aumento interanual registrado desde 2021 hasta 2022.
+
+(p∧q)∧(r∧s)
+
+5- Solar Radiation Modification – a speculative group of technologies to cool the Earth –
+requires far more research into its risks and benefits before any consideration for potential 
+deployment, according to an Expert Panel convened by the United Nations Environment 
+Programme. The panel finds that Solar Radiation Modification is not yet ready for large-scale 
+deployment to cool the Earth. Rapid reduction in greenhouse gas emissions must remain the 
+global priority, the report states.
+ RTA
+TRADUCIDO A ESPAÑOL:
+
+"La Modificación de la Radiación Solar, un grupo especulativo de tecnologías para enfriar la Tierra,
+ requiere mucha más investigación sobre sus riesgos y beneficios antes de considerar cualquier despliegue potencial, según un Panel de Expertos 
+convocado por el Programa de las Naciones Unidas para el Medio Ambiente. El panel concluye que la Modificación de la Radiación Solar aún no está lista 
+para un despliegue a gran escala para enfriar la Tierra. La reducción rápida de las emisiones de gases de efecto invernadero debe seguir siendo la prioridad global, 
+afirma el informe."
+
+p: La Modificación de la Radiación Solar requiere mucha más investigación sobre sus riesgos y beneficios antes de considerar cualquier despliegue potencial.
+¬p: La Modificación de la Radiación Solar aún no está lista para un despliegue a gran escala para enfriar la Tierra.
+q: La reducción rápida de las emisiones de gases de efecto invernadero debe seguir siendo la prioridad global.
+
+(p∧¬p)∧q
+
+6- Without immediate and deep emissions reductions across all sectors, limiting global warming 
+to 1.5°C (2.7°F) is beyond reach. In the scenarios assessed, limiting warming to around 
+1.5°C requires global greenhouse gas emissions to peak before 2025 at the latest, and be 
+reduced by 43% by 2030; at the same time, methane would also need to be reduced by about 
+a third. According to the report, there is increasing evidence of climate action. In 2010-2019, 
+average annual global greenhouse gas emissions were at their highest levels in human 
+history, but the rate of growth has slowed. An increasing range of policies and laws have 
+enhanced energy efficiency, reduced rates of deforestation and accelerated the deployment of 
+renewable energy.
+ RTA
+
+TRADUCIDO A ESPAÑOL
+
+"Sin reducciones inmediatas y profundas de las emisiones en todos los sectores, limitar el calentamiento global a 1.5°C (2.7°F) está fuera de alcance. 
+En los escenarios evaluados, limitar el calentamiento a alrededor de 1.5°C requiere que las emisiones globales de gases de efecto invernadero alcancen
+ su pico antes de 2025 como máximo, y se reduzcan en un 43% para 2030; al mismo tiempo, el metano también debería reducirse en aproximadamente un tercio. 
+Según el informe, hay evidencia creciente de acción climática. En 2010-2019, las emisiones globales anuales promedio de gases de efecto invernadero alcanzaron 
+sus niveles más altos en la historia humana, pero la tasa de crecimiento se ha desacelerado. Una gama creciente de políticas y leyes han mejorado la eficiencia energética,
+ reducido las tasas de deforestación y acelerado el despliegue de energías renovables."
+
+p: Limitar el calentamiento global a 1.5°C está fuera de alcance sin reducciones inmediatas y profundas de las emisiones en todos los sectores.
+q: Limitar el calentamiento a alrededor de 1.5°C requiere que las emisiones globales de gases de efecto invernadero alcancen su pico antes de 2025 como máximo.
+¬r:se reduzcan en un 43% para 2030.
+r: El metano debería reducirse en aproximadamente un tercio para limitar el calentamiento a alrededor de 1.5°C.
+s: Hay evidencia creciente de acción climática.
+t: Una gama creciente de políticas y leyes han mejorado la eficiencia energética, reducido las tasas de deforestación y acelerado el despliegue de energías renovables.
+
+¨{((p∧q)∧¬r)∧r}∧(s∧t)
