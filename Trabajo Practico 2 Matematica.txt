@@ -119,4 +119,4 @@ r: El metano debería reducirse en aproximadamente un tercio para limitar el cal
 s: Hay evidencia creciente de acción climática.
 t: Una gama creciente de políticas y leyes han mejorado la eficiencia energética, reducido las tasas de deforestación y acelerado el despliegue de energías renovables.
 
-((p∧q)∧¬r)∧(s∧t)
+¨{((p∧q)∧¬r)∧r}∧(s∧t)
